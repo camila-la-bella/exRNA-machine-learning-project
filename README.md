@@ -34,10 +34,12 @@ Please regard this repository as an archive of early work rather than a finalize
 - This is a very early undergraduate project and reflects my working style only at that stage. (looking back now: what was i doing back then...
 - The repository is kept mostly for documentation and archiving purposes.
 - Some original course materials, datasets, or external resources may not be included.
+- the processed data files would not be provided because it was provided by the course.
 
 - 这是一个很早期的本科项目，只反映我当时的工作方式。（现在回看：天啊我在干什么。。。
 - 本仓库主要用于记录与存档。
 - 部分课程材料、数据集或外部资源可能不会包含在本仓库中。
+- 由于来自课程资源，处理过的数据文件不会在此提供。
 
 ## Files / 文件说明
 
