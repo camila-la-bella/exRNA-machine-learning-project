@@ -1,11 +1,11 @@
 # exRNA-machine-learning-project
-Course project on exRNA expression analysis, preprocessing, and biomarker classification using machine learning.
+A project on exRNA expression analysis, preprocessing, and biomarker classification using machine learning.
 
 # Freshman-Year exRNA Project Archive / 大一时期 exRNA 项目存档
 
-This repository is an archive of a course project I worked on during my freshman year.  
+This repository is an archive of a project I worked on during my freshman year.  
 It mainly preserves my original notes, analysis records, and experiment materials from that time, so the structure is not fully standardized and some parts remain messy.  
-I am keeping it here mainly as a record of the workflow, ideas, and results.
+I'm keeping it here mainly as a record of the workflow, ideas, and results.
 
 本仓库是我在大一时期完成的一个课程项目存档。  
 其中主要保留了当时的原始笔记、分析记录和实验材料，因此整体结构并未完全整理成标准化项目形式，部分内容也会显得比较杂乱。  
